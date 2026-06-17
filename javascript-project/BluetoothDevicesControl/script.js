@@ -2,8 +2,6 @@
 // experimental-web-platform-features
 
 
-// article follow : https://developer.chrome.com/docs/capabilities/bluetooth
-
 
 // navigator.bluetooth.requestDevice({acceptAllDevices:true, optionalServices: ['battery_service']}).then(device => device.gatt.connect())
 // .then(server => {
